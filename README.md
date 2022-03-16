@@ -1,1 +1,1 @@
-﻿# pawel-mazur-pab
+﻿# Repozytorium projektów na zajęciach.
